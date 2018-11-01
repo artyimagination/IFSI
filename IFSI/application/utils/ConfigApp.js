@@ -8,16 +8,16 @@ const isStandAloneApp = Expo.Constants.appOwnership == "standalone";
 const ConfigApp = {
 
     // backend url
-    URL: "YOUR_BACKEND_URL",
+    URL: "http:/dynamictravels.in/Backend/",
 
-    // banner admob unit id
-    BANNER_ID: "YOUR_BANNER_ID",
+      // banner admob unit id
+      BANNER_ID: "ca-app-pub-6727934274615658/9819557303",
 
-    // interstitial admob unit id
-    INTERSTITIAL_ID: "YOUR_INTERSTITIAL_ID",
-
-    // testdevice id, DON'T CHANGE IT
-    TESTDEVICE_ID : isStandAloneApp?"EMULATOR" : "EMULATOR"
+      // interstitial admob unit id
+      INTERSTITIAL_ID: "ca-app-pub-6727934274615658/7864721078",
+  
+      // testdevice id, DON'T CHANGE IT
+      TESTDEVICE_ID : isStandAloneApp?"EMULATOR" : "EMULATOR"
 };
 
 export default ConfigApp;
