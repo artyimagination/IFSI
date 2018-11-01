@@ -9,9 +9,9 @@ const Strings = {
 
     ST2: "Exercises",
 
-    ST3: "Diets",
+    ST3: "Courses",
 
-    ST4: "Blog",
+    ST4: "Articles",
 
     ST5: "Quotes",
 
@@ -85,9 +85,9 @@ const Strings = {
 
     ST40: "Exercises For Every Bodypart",
 
-    ST41: "Categories",
+    ST41: "Courses",
 
-    ST42: "Featured Recipes",
+    ST42: "Our Courses",
 
     ST43: "Servings:",
 
@@ -97,9 +97,9 @@ const Strings = {
 
     ST46: "Summary",    
 
-    ST47: "Ingredients",    
+    ST47: "Curriculum",    
 
-    ST48: "Directions",
+    ST48: "more",
 
     ST49: "Calories",    
 

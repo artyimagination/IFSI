@@ -8,7 +8,7 @@ var { StyleSheet } = React;
 
 var {height, width} = Dimensions.get('window');
 
-export const PrimaryColor = "#f39c12";
+export const PrimaryColor = "#D01818";
 
 module.exports = StyleSheet.create({
 

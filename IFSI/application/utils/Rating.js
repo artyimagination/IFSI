@@ -22,7 +22,7 @@ export default sliderTemplate = (locals) => {
         	containerStyle={{width: 180}}
         	starSize={30}
         	selectedStar={value => locals.onChange(value)}
-        	starStyle={{color: '#f39c12'}}
+        	starStyle={{color: '#ee090b'}}
       		/>
 			{help}
 		</View>
